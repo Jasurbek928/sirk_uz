@@ -1,0 +1,25 @@
+// qosh = maydon.outerText.indexOf('+');
+    // ayir = maydon.outerText.indexOf('-');
+    // bol = maydon.outerText.indexOf('/');
+    // kop = maydon.outerText.indexOf('*');
+
+    // if (qosh!=-1) {
+    //     son1 = maydon.outerText.slice(0, qosh);
+    //     son2 = maydon.outerText.slice(qosh+1);
+    //     console.log(parseInt(son1) + parseInt(son2));
+    // }
+    // if (ayir!=-1) {
+    //     son1 = maydon.outerText.slice(0, qosh);
+    //     son2 = maydon.outerText.slice(qosh+1);
+    //     console.log(parseInt(son1) - parseInt(son2));
+    // }
+    // if (bol!=-1) {
+    //     son1 = maydon.outerText.slice(0, qosh);
+    //     son2 = maydon.outerText.slice(qosh+1);
+    //     console.log(parseInt(son1) / parseInt(son2));
+    // }
+    // if (kop!=-1) {
+    //     son1 = maydon.outerText.slice(0, qosh);
+    //     son2 = maydon.outerText.slice(qosh+1);
+    //     console.log(parseInt(son1) * parseInt(son2));
+    // }
